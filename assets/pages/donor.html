@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Donors | Building Bridges Foundation</title>
+    <link href="../css/main.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/entry.css" rel="stylesheet" type="text/css">
+
+</head>
+<header>
+    <div class="header">
+        <div class="header_column_img" id="header_column_img">
+            <img src="../images/BuildingBridgesLogo.jpg" height="98" width="200"
+                 id="buildingBridges">
+        </div>
+        <div class="header_column_select" id="header_column_select">
+            <div class="column2_header" id="Donor_header"><a href="../pages/donor.html"> Donor</a></div>
+            <div class="column2_header" id="Volunteer_header"><a href="#">Volunteer</a></div>
+            <div class="column2_header" id="Client_Header"><a href="#">Client</a></div>
+            <div class="column2_header" id="Board_Header"><a href="#">Board</a></div>
+        </div>
+    </div>
+
+</header>
+<body>
+<br>
+<fieldset>
+    <legend class="legend">Donor Information</legend>
+    <div class="person">
+        <div>
+            <label for="person-newDonor">
+                <label for="newDonor">New Donor</label><br>
+                <input type="radio" name="newDonor"><label>New</label>
+                <input type="radio" name="newDonor"><label>Existing</label>
+            </label>
+        </div>
+        <br>
+        <div class="person-name">
+            <label for="name">Name</label><br>
+            <input type="text" placeholder="First" autofocus>
+            <input type="text" placeholder="Last">
+            <input type="text" placeholder="Middle Initial">
+        </div>
+        <br>
+        <div class="person-dateOfBirth">
+            <label for="dob">Date of Birth</label><br>
+            <input type="date" value="">
+        </div>
+        <div class="person-gender">
+            <label for="gender">Gender</label><br>
+            <input type="radio" name="gender"><label>Male</label>
+            <input type="radio" name="gender"><label>Female</label>
+        </div>
+        <div class="person-address">
+            <label for="address">Address</label><br>
+            <input type="text" class="text-Box-Address" placeholder="Street Address"><br>
+            <input type="text" class="text-Box-Address" placeholder="Address Line 2"><br>
+            <input type="text" class="text-box-Address-Detail" placeholder="City">
+            <input type="text" class="text-box-Address-Detail" placeholder="State/Province"><br>
+            <input type="text" class="text-box-Address-Detail" placeholder="ZipCode">
+            <select class="selectOption">
+                <option value="Country">Select Country</option>
+            </select>
+        </div>
+        <br>
+        <div class="person-contact">
+            <div class="person-contact-phoneNumber">
+                <label for="phoneNumber">Phone Number</label><br>
+                <input type="text" class="phoneNumber" placeholder="Phone Number">
+                <select class="person-contact-select-Option">
+                    <option value="phoneNumber">Home</option>
+                    <option value="phoneNumber">Work</option>
+                    <option value="phoneNumber">Cell</option>
+                </select><br>
+                <input type="text" class="phoneNumber" placeholder="Phone Number">
+                <select class="person-contact-select-Option">
+                    <option value="phoneNumber">Cell</option>
+                    <option value="phoneNumber">Home</option>
+                    <option value="phoneNumber">Work</option>
+                </select><br>
+                <input type="text" class="phoneNumber" placeholder="Phone Number">
+                <select class="person-contact-select-Option">
+                    <option value="phoneNumber">Work</option>
+                    <option value="phoneNumber">Home</option>
+                    <option value="phoneNumber">Cell</option>
+                </select><br>
+            </div>
+            <div class="person-contact-eMail">
+                <label for="eMail">eMail</label><br>
+                <input type="text" class="eMail" placeholder="eMail">
+                <select class="person-contact-select-Option">
+                    <option value="eMail">Home</option>
+                    <option value="eMail">Work</option>
+                    <option value="eMail">Cell</option>
+                </select><br>
+                <input type="text" class="eMail" placeholder="eMail">
+                <select class="person-contact-select-Option">
+                    <option value="eMail" class="selectOption-">Cell</option>
+                    <option value="eMail">Work</option>
+                    <option value="eMail">Home</option>
+                </select><br>
+                <input type="text" class="eMail" placeholder="eMail">
+                <select class="person-contact-select-Option">
+                    <option value="eMail">Work</option>
+                    <option value="eMail">Home</option>
+                    <option value="eMail">Cell</option>
+                </select><br>
+            </div>
+        </div>
+    </div>
+
+</fieldset>
+
+</body>
+</html>

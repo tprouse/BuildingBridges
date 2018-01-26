@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2d622c4-1eec-4afc-920f-d9b65cb93d28" name="localhost2" url="http://mow620owe">
+        <fileTransfer port="0" mountedRoot="C:\Users\mkwoo\PycharmProjects\Work_manager\Work_manager" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
