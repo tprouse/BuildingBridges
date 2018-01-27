@@ -36,31 +36,6 @@ html{
     top: 101px;
 }
 
-.person {
-    position:relative;
-    height: 375px;
-}
-
-.person-contact {
-    position: relative;
-}
-
-.person-contact-phoneNumber{
-    position: absolute;
-    width: 50%;
-    left: 0;
-}
-
-.person-contact-eMail{
-    position: absolute;
-    width: 50%;
-    right: 0;
-}
-
-.person-contact-select-Option{
-    width: 75px;
-}
-
 /* https://www.rapidtables.com/web/html/link/html-link-color.html */
 #header_column_select a {padding:15px; font-weight:bold; float:left;}
 #header_column_select a:link {color:#d0d0d0; background-color: #0000a0;}

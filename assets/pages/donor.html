@@ -5,6 +5,7 @@
     <title>Donors | Building Bridges Foundation</title>
     <link href="../css/main.css" rel="stylesheet" type="text/css"/>
     <link href="../css/entry.css" rel="stylesheet" type="text/css">
+    <link href="../css/person.css" rel="stylesheet" type="text/css">
 
 </head>
 <header>
@@ -28,7 +29,7 @@
     <legend class="legend">Donor Information</legend>
     <div class="person">
         <div>
-            <label for="person-newDonor">
+            <label for="person-newPerson">
                 <label for="newDonor">New Donor</label><br>
                 <input type="radio" name="newDonor"><label>New</label>
                 <input type="radio" name="newDonor"><label>Existing</label>
@@ -36,15 +37,15 @@
         </div>
         <br>
         <div class="person-name">
-            <label for="name">Name</label><br>
-            <input type="text" placeholder="First" autofocus>
-            <input type="text" placeholder="Last">
-            <input type="text" placeholder="Middle Initial">
+            <label for="name" >Name</label><br>
+            <input type="text" class="person-name-input" placeholder="First" autofocus>
+            <input type="text" class="person-name-input" placeholder="Last">
+            <input type="text" class="person-name-input" placeholder="Middle Initial">
         </div>
         <br>
         <div class="person-dateOfBirth">
             <label for="dob">Date of Birth</label><br>
-            <input type="date" value="">
+            <input type="date" class="person-dateOfBirth-input" value="">
         </div>
         <div class="person-gender">
             <label for="gender">Gender</label><br>
@@ -53,11 +54,11 @@
         </div>
         <div class="person-address">
             <label for="address">Address</label><br>
-            <input type="text" class="text-Box-Address" placeholder="Street Address"><br>
-            <input type="text" class="text-Box-Address" placeholder="Address Line 2"><br>
-            <input type="text" class="text-box-Address-Detail" placeholder="City">
-            <input type="text" class="text-box-Address-Detail" placeholder="State/Province"><br>
-            <input type="text" class="text-box-Address-Detail" placeholder="ZipCode">
+            <input type="text" class="person-address-input" placeholder="Street Address"><br>
+            <input type="text" class="person-address-input" placeholder="Address Line 2"><br>
+            <input type="text" class="person-address-input" placeholder="City">
+            <input type="text" class="person-address-input" placeholder="State/Province"><br>
+            <input type="text" class="person-address-input" placeholder="ZipCode">
             <select class="selectOption">
                 <option value="Country">Select Country</option>
             </select>
@@ -66,19 +67,19 @@
         <div class="person-contact">
             <div class="person-contact-phoneNumber">
                 <label for="phoneNumber">Phone Number</label><br>
-                <input type="text" class="phoneNumber" placeholder="Phone Number">
+                <input type="text" class="person-contact-phoneNumber-input" placeholder="Phone Number">
                 <select class="person-contact-select-Option">
                     <option value="phoneNumber">Home</option>
                     <option value="phoneNumber">Work</option>
                     <option value="phoneNumber">Cell</option>
                 </select><br>
-                <input type="text" class="phoneNumber" placeholder="Phone Number">
+                <input type="text" class="person-contact-phoneNumber-input" placeholder="Phone Number">
                 <select class="person-contact-select-Option">
                     <option value="phoneNumber">Cell</option>
                     <option value="phoneNumber">Home</option>
                     <option value="phoneNumber">Work</option>
                 </select><br>
-                <input type="text" class="phoneNumber" placeholder="Phone Number">
+                <input type="text" class="person-contact-phoneNumber-input" placeholder="Phone Number">
                 <select class="person-contact-select-Option">
                     <option value="phoneNumber">Work</option>
                     <option value="phoneNumber">Home</option>
@@ -87,19 +88,19 @@
             </div>
             <div class="person-contact-eMail">
                 <label for="eMail">eMail</label><br>
-                <input type="text" class="eMail" placeholder="eMail">
+                <input type="text" class="person-contact-eMail-input" placeholder="eMail">
                 <select class="person-contact-select-Option">
                     <option value="eMail">Home</option>
                     <option value="eMail">Work</option>
                     <option value="eMail">Cell</option>
                 </select><br>
-                <input type="text" class="eMail" placeholder="eMail">
+                <input type="text" class="person-contact-eMail-input" placeholder="eMail">
                 <select class="person-contact-select-Option">
                     <option value="eMail" class="selectOption-">Cell</option>
                     <option value="eMail">Work</option>
                     <option value="eMail">Home</option>
                 </select><br>
-                <input type="text" class="eMail" placeholder="eMail">
+                <input type="text" class="person-contact-eMail-input" placeholder="eMail">
                 <select class="person-contact-select-Option">
                     <option value="eMail">Work</option>
                     <option value="eMail">Home</option>

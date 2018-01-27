@@ -1,0 +1,34 @@
+.person {
+    position:relative;
+    height: 375px;
+}
+
+.person-contact {
+    position: relative;
+}
+
+.person-contact-phoneNumber{
+    position: absolute;
+    width: 50%;
+    left: 0;
+}
+
+.person-contact-eMail{
+    position: absolute;
+    width: 50%;
+    right: 0;
+}
+
+.person-contact-eMail-input {
+    width: 250px;
+    margin-top: 5px;
+}
+
+.person-contact-phoneNumber-input {
+    margin-top: 5px;
+}
+
+.person-contact-select-Option{
+    width: 75px;
+}
+
