@@ -5,163 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64999a3b-e1b3-4f36-98f9-957eb91f152d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/Person.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/nameVerification.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/._Login_v8" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/._css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/._fonts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/._images" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/._index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/._js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/._vendor" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/css/._main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/css/._util.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/._JosefinSans" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/._font-awesome-4.7.0" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/._iconic" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/._source-sans-pro" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/._ubuntu" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-Bold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-BoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-Italic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-Light.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-LightItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-Regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-SemiBold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-SemiBoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-Thin.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._JosefinSans-ThinItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/JosefinSans/._OFL.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/._HELP-US-OUT.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/._css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/._fonts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/._less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/._scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/css/._font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/css/._font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/fonts/._FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._animated.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._bordered-pulled.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._core.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._fixed-width.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._font-awesome.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._icons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._larger.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._list.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._path.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._rotated-flipped.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._screen-reader.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._stacked.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/less/._variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__animated.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__bordered-pulled.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__core.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__fixed-width.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__larger.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__path.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__rotated-flipped.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__screen-reader.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__stacked.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/.__variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/font-awesome-4.7.0/scss/._font-awesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/._css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/._fonts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/css/._material-design-iconic-font.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/css/._material-design-iconic-font.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/fonts/._Material-Design-Iconic-Font.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/fonts/._Material-Design-Iconic-Font.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/fonts/._Material-Design-Iconic-Font.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/fonts/._Material-Design-Iconic-Font.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/iconic/fonts/._Material-Design-Iconic-Font.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._OFL.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-Black.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-BlackItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-Bold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-BoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-ExtraLight.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-ExtraLightItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-Italic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-Light.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-LightItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-Regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-SemiBold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/source-sans-pro/._SourceSansPro-SemiBoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._UFL.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._Ubuntu-Bold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._Ubuntu-BoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._Ubuntu-Italic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._Ubuntu-Light.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._Ubuntu-LightItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._Ubuntu-Medium.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._Ubuntu-MediumItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/fonts/ubuntu/._Ubuntu-Regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/images/._icons" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/images/icons/._favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/images/icons/._map-marker.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/js/._main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._animate" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._animsition" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._bootstrap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._countdowntime" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._css-hamburgers" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._daterangepicker" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._jquery" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._perfect-scrollbar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/._select2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/animate/._animate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/animsition/._css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/animsition/._js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/animsition/css/._animsition.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/animsition/css/._animsition.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/animsition/js/._animsition.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/animsition/js/._animsition.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/._css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/._js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap-grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap-grid.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap-grid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap-grid.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap-reboot.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap-reboot.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap-reboot.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap-reboot.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/css/._bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/js/._bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/js/._bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/js/._popper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/js/._popper.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/bootstrap/js/._tooltip.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/countdowntime/._countdowntime.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/css-hamburgers/._hamburgers.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/css-hamburgers/._hamburgers.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/daterangepicker/._daterangepicker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/daterangepicker/._daterangepicker.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/daterangepicker/._moment.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/daterangepicker/._moment.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/jquery/._jquery-3.2.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/perfect-scrollbar/._perfect-scrollbar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/perfect-scrollbar/._perfect-scrollbar.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/select2/._select2.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/select2/._select2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/select2/._select2.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Login_v8/vendor/select2/._select2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Work_manager/settings.py" afterPath="$PROJECT_DIR$/Work_manager/settings.py" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change beforePath="$PROJECT_DIR$/assets/pages/donor.html" afterPath="$PROJECT_DIR$/assets/pages/donor.html" />
-      <change beforePath="$PROJECT_DIR$/html/LogInScreen.html" afterPath="$PROJECT_DIR$/assets/pages/LogInScreen.html" />
-      <change beforePath="$PROJECT_DIR$/images/BuildingBridgesLogo.jpg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -174,54 +22,83 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="donor.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/pages/donor.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/Person.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.4859375">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="168">
+                  <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Person.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/css/Person.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="nameVerification.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/nameVerification.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="21">
+                  <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="609">
+                  <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="donor.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assets/pages/donor.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="42">
+                  <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Work_manager/settings.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1315">
+                  <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -231,15 +108,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Work_manager/settings.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/django/conf/global_settings.py" />
         <option value="$PROJECT_DIR$/main.css" />
         <option value="$PROJECT_DIR$/pages/donor.html" />
         <option value="$PROJECT_DIR$/assets/css/entry.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/css/Person.css" />
+        <option value="$PROJECT_DIR$/Work_manager/settings.py" />
+        <option value="$PROJECT_DIR$/assets/js/nameVerification.js" />
         <option value="$PROJECT_DIR$/assets/pages/donor.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -250,7 +128,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+    <option name="x" value="-5" />
+    <option name="y" value="23" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -281,6 +160,11 @@
               <item name="Work_manager" type="b2602c69:ProjectViewProjectNode" />
               <item name="Work_manager" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Work_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Work_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="Work_manager" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -371,7 +255,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26222685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33298647" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27348644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -386,6 +270,28 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26222685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33298647" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27348644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -601,22 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/Person.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/pages/LogInScreen.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -641,26 +531,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Work_manager/settings.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1315">
+          <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/Person.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/nameVerification.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/pages/donor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        <state relative-caret-position="42">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="609">
+          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
           <folding />
         </state>
       </provider>
