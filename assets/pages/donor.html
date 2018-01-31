@@ -7,8 +7,6 @@
     <link href="../css/main.css" rel="stylesheet" type="text/css"/>
     <link href="../css/entry.css" rel="stylesheet" type="text/css">
     <link href="../css/person.css" rel="stylesheet" type="text/css">
-
-
 </head>
 <header>
     <div class="header">
@@ -21,7 +19,6 @@
 
 
 <body>
-
 <br>
 <div class="nav">
     <ul class="nav-selection">
@@ -32,46 +29,46 @@
     </ul>
 </div>
 <br>
-
-<fieldset class="person-fieldset">
-    <legend class="person-legend">Personal Information</legend>
-    <div class="person">
-        <div>
-            <label for="person-newPerson">
-                <label for="newDonor">New Donor</label><br>
-                <input type="radio" name="newDonor"><label>New</label>
-                <input type="radio" name="newDonor"><label>Existing</label>
-            </label>
-        </div>
-        <br>
-        <div class="person-name">
-            <label for="name">Name</label><br>
-            <input type="text" id="firstName" class="person-name-input" placeholder="First" autofocus>
-            <input type="text" id="lastName" class="person-name-input" placeholder="Last">
-            <input type="text" id="middleInitial" class="person-name-input" placeholder="Middle Initial">
-        </div>
-        <br>
-        <div class="person-dateOfBirth">
-            <label for="dob">Date of Birth</label><br>
-            <input type="date" class="person-dateOfBirth-input" value="">
-        </div>
-        <div class="person-gender">
-            <label for="gender">Gender</label><br>
-            <input type="radio" name="gender"><label>Male</label>
-            <input type="radio" name="gender"><label>Female</label>
-        </div>
-        <div class="person-address">
-            <label for="address">Address</label><br>
-            <input type="text" class="person-address-input" placeholder="Street Address"><br>
-            <input type="text" class="person-address-input" placeholder="Address Line 2"><br>
-            <input type="text" class="person-address-input" placeholder="City">
-            <input type="text" class="person-address-input" placeholder="State/Province"><br>
-            <input type="text" class="person-address-input" placeholder="ZipCode">
-            <select class="selectOption">
-                <option value="Country">Select Country</option>
-            </select>
-
+<form class="person-form">
+    <fieldset class="person-fieldset">
+        <legend class="person-legend">Personal Information</legend>
+        <div class="person">
+            <div>
+                <label for="person-newPerson">
+                    <label for="newDonor">New Donor</label><br>
+                    <input type="radio" name="newDonor"><label>New</label>
+                    <input type="radio" name="newDonor"><label>Existing</label>
+                </label>
+            </div>
             <br>
+            <div class="person-name">
+                <label for="name">Name</label><br>
+                <input type="text" id="firstName" class="person-name-input" placeholder="First" autofocus>
+                <input type="text" id="lastName" class="person-name-input" placeholder="Last">
+                <input type="text" id="middleInitial" class="person-name-input" placeholder="Middle Initial">
+            </div>
+            <br>
+            <div class="person-dateOfBirth">
+                <label for="dob">Date of Birth</label><br>
+                <input type="date" class="person-dateOfBirth-input" value="">
+            </div>
+            <div class="person-gender">
+                <label for="gender">Gender</label><br>
+                <input type="radio" name="gender"><label>Male</label>
+                <input type="radio" name="gender"><label>Female</label>
+            </div>
+            <div class="person-address">
+                <label for="address">Address</label><br>
+                <input type="text" class="person-address-input" placeholder="Street Address"><br>
+                <input type="text" class="person-address-input" placeholder="Address Line 2"><br>
+                <input type="text" class="person-address-input" placeholder="City">
+                <input type="text" class="person-address-input" placeholder="State/Province"><br>
+                <input type="text" class="person-address-input" placeholder="ZipCode">
+                <select class="selectOption">
+                    <option value="Country">Select Country</option>
+                </select>
+                <br>
+            </div>
             <div class="person-contact">
                 <div class="person-contact-phoneNumber">
                     <label for="phoneNumber">Phone Number</label><br>
@@ -92,7 +89,10 @@
                         <option value="phoneNumber">Work</option>
                         <option value="phoneNumber">Home</option>
                         <option value="phoneNumber">Cell</option>
-                    </select><br>
+                    </select>
+
+                    <br>
+
                 </div>
                 <div class="person-contact-eMail">
                     <label for="eMail">eMail</label><br>
@@ -101,7 +101,8 @@
                         <option value="eMail">Home</option>
                         <option value="eMail">Work</option>
                         <option value="eMail">Cell</option>
-                    </select><br>
+                    </select>
+                    <br>
                     <input type="text" class="person-contact-eMail-input" placeholder="eMail">
                     <select class="person-contact-select-Option">
                         <option value="eMail" class="selectOption-">Cell</option>
@@ -113,13 +114,13 @@
                         <option value="eMail">Work</option>
                         <option value="eMail">Home</option>
                         <option value="eMail">Cell</option>
-                    </select><br>
+                    </select>
+                    <br>
                 </div>
             </div>
         </div>
-    </div>
 
-</fieldset>
-
+    </fieldset>
+</form>
 </body>
 </html>
