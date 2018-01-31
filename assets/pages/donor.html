@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Donors | Building Bridges Foundation</title>
     <link href="../css/main.css" rel="stylesheet" type="text/css"/>
     <link href="../css/entry.css" rel="stylesheet" type="text/css">
@@ -14,14 +15,13 @@
         <div class="header-column-img">
             <img src="../images/BuildingBridgesLogo.jpg" class="header-buildingBridges">
         </div>
-
     </div>
     </div>
 </header>
 
 
 <body>
-<script> src = "../js/nameVerification.js" </script>
+
 <br>
 <div class="nav">
     <ul class="nav-selection">
@@ -30,45 +30,47 @@
         <li class="nav-selection-page"><a href="#">Client</a></li>
         <li class="nav-selection-page"><a href="#">Board</a></li>
     </ul>
-    <br>
-    <fieldset>
-        <legend class="legend">Personal Information</legend>
-        <div class="person">
-            <div>
-                <label for="person-newPerson">
-                    <label for="newDonor">New Donor</label><br>
-                    <input type="radio" name="newDonor"><label>New</label>
-                    <input type="radio" name="newDonor"><label>Existing</label>
-                </label>
-            </div>
-            <br>
-            <div class="person-name">
-                <label for="name">Name</label><br>
-                <input type="text" oninput="alphanumeric(text)" class="person-name-input" placeholder="First" autofocus>
-                <input type="text" class="person-name-input" placeholder="Last">
-                <input type="text" class="person-name-input" placeholder="Middle Initial">
-            </div>
-            <br>
-            <div class="person-dateOfBirth">
-                <label for="dob">Date of Birth</label><br>
-                <input type="date" class="person-dateOfBirth-input" value="">
-            </div>
-            <div class="person-gender">
-                <label for="gender">Gender</label><br>
-                <input type="radio" name="gender"><label>Male</label>
-                <input type="radio" name="gender"><label>Female</label>
-            </div>
-            <div class="person-address">
-                <label for="address">Address</label><br>
-                <input type="text" class="person-address-input" placeholder="Street Address"><br>
-                <input type="text" class="person-address-input" placeholder="Address Line 2"><br>
-                <input type="text" class="person-address-input" placeholder="City">
-                <input type="text" class="person-address-input" placeholder="State/Province"><br>
-                <input type="text" class="person-address-input" placeholder="ZipCode">
-                <select class="selectOption">
-                    <option value="Country">Select Country</option>
-                </select>
-            </div>
+</div>
+<br>
+
+<fieldset class="person-fieldset">
+    <legend class="person-legend">Personal Information</legend>
+    <div class="person">
+        <div>
+            <label for="person-newPerson">
+                <label for="newDonor">New Donor</label><br>
+                <input type="radio" name="newDonor"><label>New</label>
+                <input type="radio" name="newDonor"><label>Existing</label>
+            </label>
+        </div>
+        <br>
+        <div class="person-name">
+            <label for="name">Name</label><br>
+            <input type="text" id="firstName" class="person-name-input" placeholder="First" autofocus>
+            <input type="text" id="lastName" class="person-name-input" placeholder="Last">
+            <input type="text" id="middleInitial" class="person-name-input" placeholder="Middle Initial">
+        </div>
+        <br>
+        <div class="person-dateOfBirth">
+            <label for="dob">Date of Birth</label><br>
+            <input type="date" class="person-dateOfBirth-input" value="">
+        </div>
+        <div class="person-gender">
+            <label for="gender">Gender</label><br>
+            <input type="radio" name="gender"><label>Male</label>
+            <input type="radio" name="gender"><label>Female</label>
+        </div>
+        <div class="person-address">
+            <label for="address">Address</label><br>
+            <input type="text" class="person-address-input" placeholder="Street Address"><br>
+            <input type="text" class="person-address-input" placeholder="Address Line 2"><br>
+            <input type="text" class="person-address-input" placeholder="City">
+            <input type="text" class="person-address-input" placeholder="State/Province"><br>
+            <input type="text" class="person-address-input" placeholder="ZipCode">
+            <select class="selectOption">
+                <option value="Country">Select Country</option>
+            </select>
+
             <br>
             <div class="person-contact">
                 <div class="person-contact-phoneNumber">
@@ -115,8 +117,9 @@
                 </div>
             </div>
         </div>
+    </div>
 
-    </fieldset>
+</fieldset>
 
 </body>
 </html>

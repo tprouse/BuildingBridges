@@ -1,6 +1,9 @@
+.person-fieldset{
+    display: flex;
+    width: 95%;
+}
 .person {
-    position:relative;
-    height: 375px;
+    display: inline-block;
 }
 
 .person-contact {
