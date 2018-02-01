@@ -1,16 +1,18 @@
 .person-fieldset{
-    display: flex;
+    display: inline-block;
     width: 93.5%;
 }
 
 .person {
-    display: inline-block;
+    display: block;
 }
 
 .person-contact {
     position: relative;
 }
-.person-left{
+
+.person-left, .person-right{
+    display: inline-block;
     float: left;
     padding-right: 5%;
 }
