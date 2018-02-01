@@ -2,6 +2,7 @@
     display: flex;
     width: 93.5%;
 }
+
 .person {
     display: inline-block;
 }
@@ -9,26 +10,14 @@
 .person-contact {
     position: relative;
 }
-
-.person-contact-phoneNumber{
-    position: absolute;
-    width: 50%;
-    left: 0;
+.person-left{
+    float: left;
+    padding-right: 5%;
 }
 
-.person-contact-eMail{
-    position: absolute;
-    width: 50%;
-    right: 0;
-}
-
-.person-contact-eMail-input {
+.person-contact-eMail-input, .person-contact-phoneNumber-input {
+    margin-top: 5px;
     width: 250px;
-    margin-top: 5px;
-}
-
-.person-contact-phoneNumber-input {
-    margin-top: 5px;
 }
 
 .person-contact-select-Option{
