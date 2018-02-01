@@ -42,10 +42,10 @@
                 <div>
                     <!---<label for="person-newPerson">-->
                     <!---<label for="newDonor">New Donor</label><br>-->
-                    <input type="radio" id="person-left-newDonor" name="newDonor" value="new">
-                    <label for="person-left-newDonor">New Donor</label>
-                    <input type="radio" id="person-left-existing" name="newDonor" value="existing">
-                    <label for="person-left-existing">Existing Donor</label>
+                    <input type="radio" id="newDonor" name="newDonor" value="new">
+                    <label for="newDonor">New Donor</label>
+                    <input type="radio" id="existing" name="newDonor" value="existing">
+                    <label for="existing">Existing Donor</label>
                     <!---</label>-->
                 </div>
                 <br>
@@ -58,23 +58,26 @@
                 <br>
                 <div class="person-dateOfBirth">
                     <label for="dob">Date of Birth</label><br>
-                    <input type="date" class="person-dateOfBirth-input" value="">
+                    <input type="date" id="dateOfBirth" class="person-dateOfBirth-input" value="">
                 </div>
                 <div class="person-gender">
                     <label for="gender">Gender</label><br>
-                    <input type="radio" name="gender"><label>Male</label>
-                    <input type="radio" name="gender"><label>Female</label>
+                    <input type="radio" id="genderMale" name="gender"><label>Male</label>
+                    <input type="radio" id="genderFemale" name="gender"><label>Female</label>
                 </div>
                 <div class="person-address">
                     <label for="address">Address</label><br>
-                    <input type="text" class="person-address-input" placeholder="Street Address"><br>
-                    <input type="text" class="person-address-input" placeholder="Address Line 2"><br>
-                    <input type="text" class="person-address-input" placeholder="City">
-                    <input type="text" class="person-address-input" placeholder="State/Province"><br>
-                    <input type="text" class="person-address-input" placeholder="ZipCode">
+                    <input type="text" id="streetAddress" class="person-address-input" placeholder="Street Address"><br>
+                    <input type="text" id="addressLine2" class="person-address-input" placeholder="Address Line 2"><br>
+                    <input type="text" id="city" class="person-address-input" placeholder="City">
+                    <input type="text" id="state" class="person-address-input" placeholder="State/Province"><br>
+                    <input type="text" id="zipCode" class="person-address-input" placeholder="ZipCode">
+                    <!---
+                    TODO if we want to take this outside of the country
                     <select class="selectOption">
                         <option value="Country">Select Country</option>
                     </select>
+                    -->
                     <br>
                 </div>
             </div>
@@ -82,19 +85,19 @@
                 <div class="person-contact">
                     <div class="person-contact-phoneNumber"><br>
                         <label for="phoneNumber">Phone Number</label><br>
-                        <input type="text" class="person-contact-phoneNumber-input" placeholder="Phone Number">
+                        <input type="text" id="phoneNumber" class="person-contact-phoneNumber-input" placeholder="Phone Number">
                         <select class="person-contact-select-Option">
                             <option type="tel" value="phoneNumber">Home</option>
                             <option type="tel" value="phoneNumber">Work</option>
                             <option type="tel" value="phoneNumber">Cell</option>
                         </select><br>
-                        <input type="text" class="person-contact-phoneNumber-input" placeholder="Phone Number">
+                        <input type="text" id="phoneNumber" class="person-contact-phoneNumber-input" placeholder="Phone Number">
                         <select class="person-contact-select-Option">
                             <option type="tel" value="phoneNumber">Cell</option>
                             <option type="tel" value="phoneNumber">Home</option>
                             <option type="tel" value="phoneNumber">Work</option>
                         </select><br>
-                        <input type="text" class="person-contact-phoneNumber-input" placeholder="Phone Number">
+                        <input type="text" id="phoneNumber" class="person-contact-phoneNumber-input" placeholder="Phone Number">
                         <select class="person-contact-select-Option">
                             <option type="tel" value="phoneNumber">Work</option>
                             <option type="tel" value="phoneNumber">Home</option>
@@ -105,20 +108,20 @@
                     <br>
                     <div class="person-contact-eMail">
                         <label for="eMail">eMail</label><br>
-                        <input type="text" class="person-contact-eMail-input" placeholder="eMail">
+                        <input type="text" id="eMail" class="person-contact-eMail-input" placeholder="eMail">
                         <select class="person-contact-select-Option">
                             <option value="eMail">Home</option>
                             <option value="eMail">Work</option>
                             <option value="eMail">School</option>
                         </select>
                         <br>
-                        <input type="text" class="person-contact-eMail-input" placeholder="eMail">
+                        <input type="text" id="eMail" class="person-contact-eMail-input" placeholder="eMail">
                         <select class="person-contact-select-Option">
                             <option value="eMail" class="selectOption-">School</option>
                             <option value="eMail">Work</option>
                             <option value="eMail">Home</option>
                         </select><br>
-                        <input type="text" class="person-contact-eMail-input" placeholder="eMail">
+                        <input type="text" id="eMail" class="person-contact-eMail-input" placeholder="eMail">
                         <select class="person-contact-select-Option">
                             <option value="eMail">Work</option>
                             <option value="eMail">Home</option>
